@@ -17,6 +17,9 @@
     "start": "nodemon app"
   },
   "keywords": [],
-  "author": "",
+  "engines": {
+    "node": "12.8.0"
+  },
+  "author": "Joey Romo",
   "license": "ISC"
 }
